@@ -24,4 +24,3 @@ for el in els:
     items.append([exploded[0].strip(), exploded[1].replace('cases', '').strip()])
 
 writer.writerows(items)
-print('finished')
