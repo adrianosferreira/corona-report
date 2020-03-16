@@ -10,4 +10,4 @@
 
 `> python3 ./app.py`
 
-It will export a file called "corona-report.csv" with data fetched from the World Health Organization.
+It will export a file called "corona-report.csv" with data fetched from the World Health Organization, containing the number of cases in the whole world.
